@@ -1,0 +1,22 @@
+{
+  "o2/core": {},
+  "o2/semantic": {
+    "background": {
+      "header": {
+        "value": "#0119A5",
+        "type": "color"
+      },
+      "menu": {
+        "value": "#3399CC",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "o2/core",
+      "o2/semantic"
+    ]
+  }
+}
