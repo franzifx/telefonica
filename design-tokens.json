@@ -233,25 +233,538 @@
         "value": "#131414",
         "type": "color"
       }
-    }
-  },
-  "o2/semantic": {
-    "background": {
-      "header": {
-        "value": "#0119A5",
+    },
+    "aktiv": {
+      "tint 90": {
+        "value": "#FFF9ED",
         "type": "color"
       },
-      "menu": {
-        "value": "#3399CC",
+      "tint 80": {
+        "value": "#FFF3DA",
+        "type": "color"
+      },
+      "tint 70": {
+        "value": "#FFEEC8",
+        "type": "color"
+      },
+      "tint 60": {
+        "value": "#FFE8B6",
+        "type": "color"
+      },
+      "tint 50": {
+        "value": "#FFE2A4",
+        "type": "color"
+      },
+      "tint 40": {
+        "value": "#FFDC91",
+        "type": "color"
+      },
+      "tint 30": {
+        "value": "#FFD67F",
+        "type": "color"
+      },
+      "tint 20": {
+        "value": "#FFD16D",
+        "type": "color"
+      },
+      "tint 10": {
+        "value": "#FFCB5A",
+        "type": "color"
+      },
+      "aktiv": {
+        "value": "#FFC548",
+        "type": "color"
+      },
+      "shade 10": {
+        "value": "#E6B141",
+        "type": "color"
+      },
+      "shade 20": {
+        "value": "#CC9E3A",
+        "type": "color"
+      },
+      "shade 30": {
+        "value": "#B38A32",
+        "type": "color"
+      },
+      "shade 40": {
+        "value": "#99762B",
+        "type": "color"
+      },
+      "shade 50": {
+        "value": "#806324",
+        "type": "color"
+      },
+      "shade 60": {
+        "value": "#664F1D",
+        "type": "color"
+      },
+      "shade 70": {
+        "value": "#4D3B16",
+        "type": "color"
+      },
+      "shade 80": {
+        "value": "#33270E",
+        "type": "color"
+      },
+      "shade 90": {
+        "value": "#1A1407",
+        "type": "color"
+      }
+    },
+    "alert": {
+      "tint 90": {
+        "value": "#FEEFF2",
+        "type": "color"
+      },
+      "tint 80": {
+        "value": "#FDDFE5",
+        "type": "color"
+      },
+      "tint 70": {
+        "value": "#FCCED8",
+        "type": "color"
+      },
+      "tint 60": {
+        "value": "#FBBECB",
+        "type": "color"
+      },
+      "tint 50": {
+        "value": "#FBAEBE",
+        "type": "color"
+      },
+      "tint 40": {
+        "value": "#FA9EB1",
+        "type": "color"
+      },
+      "tint 30": {
+        "value": "#F98EA4",
+        "type": "color"
+      },
+      "tint 20": {
+        "value": "#F87D97",
+        "type": "color"
+      },
+      "tint 10": {
+        "value": "#F76D8A",
+        "type": "color"
+      },
+      "alert": {
+        "value": "#F65D7D",
+        "type": "color"
+      },
+      "shade 10": {
+        "value": "#DD5471",
+        "type": "color"
+      },
+      "shade 20": {
+        "value": "#C54A64",
+        "type": "color"
+      },
+      "shade 30": {
+        "value": "#AC4158",
+        "type": "color"
+      },
+      "shade 40": {
+        "value": "#94384B",
+        "type": "color"
+      },
+      "shade 50": {
+        "value": "#7B2F3F",
+        "type": "color"
+      },
+      "shade 60": {
+        "value": "#622532",
+        "type": "color"
+      },
+      "shade 70": {
+        "value": "#4A1C26",
+        "type": "color"
+      },
+      "shade 80": {
+        "value": "#311319",
+        "type": "color"
+      },
+      "shade 90": {
+        "value": "#19090D",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "tint 90": {
+        "value": "#FFF2ED",
+        "type": "color"
+      },
+      "tint 80": {
+        "value": "#FFE4DA",
+        "type": "color"
+      },
+      "tint 70": {
+        "value": "#FFD7C8",
+        "type": "color"
+      },
+      "tint 60": {
+        "value": "#FFC9B5",
+        "type": "color"
+      },
+      "tint 50": {
+        "value": "#FFBCA3",
+        "type": "color"
+      },
+      "tint 40": {
+        "value": "#FFAF91",
+        "type": "color"
+      },
+      "tint 30": {
+        "value": "#FFA17E",
+        "type": "color"
+      },
+      "tint 20": {
+        "value": "#FF946C",
+        "type": "color"
+      },
+      "tint 10": {
+        "value": "#FF8659",
+        "type": "color"
+      },
+      "warning": {
+        "value": "#FF7947",
+        "type": "color"
+      },
+      "shade 10": {
+        "value": "#E66D40",
+        "type": "color"
+      },
+      "shade 20": {
+        "value": "#CC6139",
+        "type": "color"
+      },
+      "shade 30": {
+        "value": "#B35532",
+        "type": "color"
+      },
+      "shade 40": {
+        "value": "#99492B",
+        "type": "color"
+      },
+      "shade 50": {
+        "value": "#803D24",
+        "type": "color"
+      },
+      "shade 60": {
+        "value": "#66301C",
+        "type": "color"
+      },
+      "shade 70": {
+        "value": "#4D2415",
+        "type": "color"
+      },
+      "shade 80": {
+        "value": "#33180E",
+        "type": "color"
+      },
+      "shade 90": {
+        "value": "#1A0C07",
+        "type": "color"
+      }
+    },
+    "success": {
+      "tint 90": {
+        "value": "#F1FAF5",
+        "type": "color"
+      },
+      "tint 80": {
+        "value": "#E3F5EB",
+        "type": "color"
+      },
+      "tint 70": {
+        "value": "#D5F1E1",
+        "type": "color"
+      },
+      "tint 60": {
+        "value": "#C7ECD7",
+        "type": "color"
+      },
+      "tint 50": {
+        "value": "#BAE7CD",
+        "type": "color"
+      },
+      "tint 40": {
+        "value": "#ACE2C2",
+        "type": "color"
+      },
+      "tint 30": {
+        "value": "#9EDDB8",
+        "type": "color"
+      },
+      "tint 20": {
+        "value": "#90D9AE",
+        "type": "color"
+      },
+      "tint 10": {
+        "value": "#82D4A4",
+        "type": "color"
+      },
+      "success": {
+        "value": "#74CF9A",
+        "type": "color"
+      },
+      "shade 10": {
+        "value": "#68BA8B",
+        "type": "color"
+      },
+      "shade 20": {
+        "value": "#5DA67B",
+        "type": "color"
+      },
+      "shade 30": {
+        "value": "#51916C",
+        "type": "color"
+      },
+      "shade 40": {
+        "value": "#467C5C",
+        "type": "color"
+      },
+      "shade 50": {
+        "value": "#3A684D",
+        "type": "color"
+      },
+      "shade 60": {
+        "value": "#2E533E",
+        "type": "color"
+      },
+      "shade 70": {
+        "value": "#233E2E",
+        "type": "color"
+      },
+      "shade 80": {
+        "value": "#17291F",
+        "type": "color"
+      },
+      "shade 90": {
+        "value": "#0C150F",
+        "type": "color"
+      }
+    },
+    "info": {
+      "tint 90": {
+        "value": "#ECF8FD",
+        "type": "color"
+      },
+      "tint 80": {
+        "value": "#D9F0FA",
+        "type": "color"
+      },
+      "tint 70": {
+        "value": "#C6E9F8",
+        "type": "color"
+      },
+      "tint 60": {
+        "value": "#B3E2F5",
+        "type": "color"
+      },
+      "tint 50": {
+        "value": "#A0DBF3",
+        "type": "color"
+      },
+      "tint 40": {
+        "value": "#8DD3F0",
+        "type": "color"
+      },
+      "tint 30": {
+        "value": "#7ACCEE",
+        "type": "color"
+      },
+      "tint 20": {
+        "value": "#67C5EB",
+        "type": "color"
+      },
+      "tint 10": {
+        "value": "#54BDE9",
+        "type": "color"
+      },
+      "info": {
+        "value": "#41B6E6",
+        "type": "color"
+      },
+      "shade 10": {
+        "value": "#3BA4CF",
+        "type": "color"
+      },
+      "shade 20": {
+        "value": "#3492B8",
+        "type": "color"
+      },
+      "shade 30": {
+        "value": "#2E7FA1",
+        "type": "color"
+      },
+      "shade 40": {
+        "value": "#276D8A",
+        "type": "color"
+      },
+      "shade 50": {
+        "value": "#215B73",
+        "type": "color"
+      },
+      "shade 60": {
+        "value": "#1A495C",
+        "type": "color"
+      },
+      "shade 70": {
+        "value": "#143745",
+        "type": "color"
+      },
+      "shade 80": {
+        "value": "#0D242E",
+        "type": "color"
+      },
+      "shade 90": {
+        "value": "#071217",
+        "type": "color"
+      }
+    },
+    "substitute": {
+      "tint 90": {
+        "value": "#EBF9F9",
+        "type": "color"
+      },
+      "tint 80": {
+        "value": "#D7F4F3",
+        "type": "color"
+      },
+      "tint 70": {
+        "value": "#C4EEEE",
+        "type": "color"
+      },
+      "tint 60": {
+        "value": "#B0E9E8",
+        "type": "color"
+      },
+      "tint 50": {
+        "value": "#9CE3E2",
+        "type": "color"
+      },
+      "tint 40": {
+        "value": "#88DDDC",
+        "type": "color"
+      },
+      "tint 30": {
+        "value": "#74D8D6",
+        "type": "color"
+      },
+      "tint 20": {
+        "value": "#61D2D1",
+        "type": "color"
+      },
+      "tint 10": {
+        "value": "#4DCDCB",
+        "type": "color"
+      },
+      "substitute": {
+        "value": "#39C7C5",
+        "type": "color"
+      },
+      "shade 10": {
+        "value": "#33B3B1",
+        "type": "color"
+      },
+      "shade 20": {
+        "value": "#2E9F9E",
+        "type": "color"
+      },
+      "shade 30": {
+        "value": "#288B8A",
+        "type": "color"
+      },
+      "shade 40": {
+        "value": "#227776",
+        "type": "color"
+      },
+      "shade 50": {
+        "value": "#1D6463",
+        "type": "color"
+      },
+      "shade 60": {
+        "value": "#17504F",
+        "type": "color"
+      },
+      "shade 70": {
+        "value": "#113C3B",
+        "type": "color"
+      },
+      "shade 80": {
+        "value": "#0B2827",
+        "type": "color"
+      },
+      "shade 90": {
+        "value": "#061414",
+        "type": "color"
+      }
+    },
+    "basic": {
+      "white": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000000",
         "type": "color"
       }
     }
   },
+  "o2/semantic": {
+    "header": {
+      "background": {
+        "value": "#0019A5",
+        "type": "color"
+      },
+      "elements": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "badge": {
+        "value": "#ffc548",
+        "type": "color"
+      },
+      "badgenumber": {
+        "value": "#000000",
+        "type": "color"
+      }
+    },
+    "navbar": {
+      "background": {
+        "value": "#FFFFFF",
+        "type": "color"
+      }
+    }
+  },
+  "Spice Mobile": {
+    "header": {
+      "background": {
+        "value": "#85bc22",
+        "type": "color"
+      },
+      "elements": {
+        "value": "#FFFFFF",
+        "type": "color"
+      }
+    }
+  },
+  "Blau": {},
+  "Ortel": {},
+  "MediaMarktSaturn": {},
+  "Ay Yildiz": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "o2/core",
-      "o2/semantic"
+      "o2/semantic",
+      "Spice Mobile",
+      "Blau",
+      "Ortel",
+      "MediaMarktSaturn",
+      "Ay Yildiz"
     ]
   }
 }
