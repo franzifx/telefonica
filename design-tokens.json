@@ -716,25 +716,39 @@
   "o2/semantic": {
     "header": {
       "background": {
-        "value": "#0019A5",
+        "value": "{header.header}",
         "type": "color"
       },
       "elements": {
-        "value": "#FFFFFF",
+        "value": "{basic.white}",
         "type": "color"
       },
       "badge": {
-        "value": "#ffc548",
+        "value": "{aktiv.aktiv}",
         "type": "color"
       },
       "badgenumber": {
-        "value": "#000000",
+        "value": "{header.shade 60}",
         "type": "color"
       }
     },
     "navbar": {
       "background": {
-        "value": "#FFFFFF",
+        "value": "{basic.white}",
+        "type": "color"
+      },
+      "elements": {
+        "value": "{action.action}",
+        "type": "color"
+      },
+      "divider": {
+        "value": "{gui.gui}",
+        "type": "color"
+      }
+    },
+    "overlay": {
+      "darken": {
+        "value": "{action.shade 80}",
         "type": "color"
       }
     }
@@ -748,10 +762,65 @@
       "elements": {
         "value": "#FFFFFF",
         "type": "color"
+      },
+      "badge": {
+        "value": "#BD2C0F",
+        "type": "color"
+      }
+    },
+    "navbar": {
+      "background": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "elements": {
+        "value": "#2B4306",
+        "type": "color"
+      }
+    },
+    "overlay": {
+      "darken": {
+        "value": "#1B2607",
+        "type": "color"
       }
     }
   },
-  "Blau": {},
+  "Blau": {
+    "header": {
+      "background": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "elements": {
+        "value": "#0072BC",
+        "type": "color"
+      },
+      "badge": {
+        "value": "#FFCC00",
+        "type": "color"
+      }
+    },
+    "navbar": {
+      "background": {
+        "value": "#00B6F1",
+        "type": "color"
+      },
+      "burger": {
+        "value": "#7814B3",
+        "type": "color"
+      },
+      "elements": {
+        "value": "#FFFFFF",
+        "type": "color"
+      }
+    },
+    "overlay": {
+      "darken": {
+        "value": "#001726",
+        "type": "color"
+      }
+    }
+  },
   "Ortel": {},
   "MediaMarktSaturn": {},
   "Ay Yildiz": {},
