@@ -750,6 +750,10 @@
       "darken": {
         "value": "{action.shade 80}",
         "type": "color"
+      },
+      "dash": {
+        "value": "{action.action}",
+        "type": "color"
       }
     }
   },
@@ -781,6 +785,10 @@
     "overlay": {
       "darken": {
         "value": "#1B2607",
+        "type": "color"
+      },
+      "dash": {
+        "value": "{gui.shade 60}",
         "type": "color"
       }
     }
@@ -818,12 +826,145 @@
       "darken": {
         "value": "#001726",
         "type": "color"
+      },
+      "dash": {
+        "value": "#0072BC",
+        "type": "color"
       }
     }
   },
-  "Ortel": {},
-  "MediaMarktSaturn": {},
-  "Ay Yildiz": {},
+  "Ortel": {
+    "header": {
+      "background": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "elements": {
+        "value": "{gui.shade 60}",
+        "type": "color"
+      },
+      "badge": {
+        "value": "#FF7F41",
+        "type": "color"
+      },
+      "fluid": {
+        "value": "#E84249",
+        "type": "color"
+      }
+    },
+    "navbar": {
+      "background": {
+        "value": "linear-gradient(90deg, #C00D0D 0%, #E84249 100%)",
+        "type": "color"
+      },
+      "burger": {
+        "value": "#333333",
+        "type": "color"
+      },
+      "": {
+        "value": "#FFFFFF",
+        "type": "color"
+      }
+    },
+    "overlay": {
+      "darken": {
+        "value": "#000B16",
+        "type": "color"
+      },
+      "dash": {
+        "value": "{gui.shade 60}",
+        "type": "color"
+      }
+    }
+  },
+  "MediaMarktSaturn": {
+    "header": {
+      "background": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "elements": {
+        "value": "{gui.shade 60}",
+        "type": "color"
+      },
+      "badge": {
+        "value": "#FF7F41",
+        "type": "color"
+      },
+      "fluid": {
+        "value": "#009FE3",
+        "type": "color"
+      }
+    },
+    "navbar": {
+      "background": {
+        "value": "#009FE3",
+        "type": "color"
+      },
+      "burger": {
+        "value": "#E30614",
+        "type": "color"
+      },
+      "elements": {
+        "value": "#FFFFFF",
+        "type": "color"
+      }
+    },
+    "overlay": {
+      "darken": {
+        "value": "#00202D",
+        "type": "color"
+      },
+      "dash": {
+        "value": "{gui.shade 60}",
+        "type": "color"
+      }
+    }
+  },
+  "Ay Yildiz": {
+    "header": {
+      "background": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "elements": {
+        "value": "{gui.shade 60}",
+        "type": "color"
+      },
+      "badge": {
+        "value": "#FF7F41",
+        "type": "color"
+      },
+      "fluid": {
+        "value": "#01376F",
+        "type": "color"
+      }
+    },
+    "navbar": {
+      "burger": {
+        "value": "#C9141E",
+        "type": "color"
+      },
+      "background": {
+        "value": "#01376F",
+        "type": "color"
+      },
+      "elements": {
+        "value": "#FFFFFF",
+        "type": "color"
+      }
+    },
+    "overlay": {
+      "darken": {
+        "value": "#270100",
+        "type": "color"
+      },
+      "dash": {
+        "value": "{gui.shade 60}",
+        "type": "color"
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
