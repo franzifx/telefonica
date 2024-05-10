@@ -755,6 +755,24 @@
         "value": "{action.action}",
         "type": "color"
       }
+    },
+    "newslist": {
+      "title": {
+        "value": "{gui.shade 80}",
+        "type": "color"
+      },
+      "timestamp": {
+        "value": "{gui.shade 20}",
+        "type": "color"
+      },
+      "divider": {
+        "value": "{gui.tint 20}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{aktiv.aktiv}",
+        "type": "color"
+      }
     }
   },
   "Spice Mobile": {
